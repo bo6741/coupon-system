@@ -34,7 +34,7 @@
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
-            <version>8.0.12</version>
+            <version>8.0.16</version>
             <scope>runtime</scope>
         </dependency>
         <!-- apache 提供的一些工具类 -->
